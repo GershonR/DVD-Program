@@ -6,8 +6,8 @@ Debug:
 
 Lists:
 - LinkedList.java (Abstract and requires implementation of basic methods such as remove,add,contains)
-		>- SearchableList.java, adds nodes to the end of the list
-		>- OrderedList.java, stores nodes in alphabetical order from A -> Z
+	- SearchableList.java, adds nodes to the end of the list
+	- OrderedList.java, stores nodes in alphabetical order from A -> Z
 		
 Data:
 	- Stored in each Node
