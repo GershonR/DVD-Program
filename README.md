@@ -8,10 +8,12 @@ Lists:
 	- LinkedList.java (Abstract and requires implementation of basic methods such as remove,add,contains)
 		>- SearchableList.java, adds nodes to the end of the list
 		>- OrderedList.java, stores nodes in alphabetical order from A -> Z
+		
 Data:
 	- Stored in each Node
 		>- Customer, contains a customers wishlist, loanlist, the maximum of dvds that are allowed on loan, and the current number on loan
 		>- DVD, contains the current quantity and the number that are currently on loan
+
 
 Events:
 	- ACN: Events.java addCustomer(String name, int maxDVDs, Database database)
