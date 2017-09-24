@@ -2,10 +2,10 @@
 A program to simulate DVD rentals.
 
 Debug:
-	- In Data.java, DEBUG_MODE can be set to false to prevent all the ERROR, WARNING and SUCCESS messages
+- In Data.java, DEBUG_MODE can be set to false to prevent all the ERROR, WARNING and SUCCESS messages
 
 Lists:
-	- LinkedList.java (Abstract and requires implementation of basic methods such as remove,add,contains)
+- LinkedList.java (Abstract and requires implementation of basic methods such as remove,add,contains)
 		>- SearchableList.java, adds nodes to the end of the list
 		>- OrderedList.java, stores nodes in alphabetical order from A -> Z
 		
